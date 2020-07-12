@@ -6,7 +6,6 @@
 <style>
 a{
   font-family: 'Grenze Gotisch';
-
   }
 </style>
 
@@ -16,6 +15,6 @@ a{
   <br><br>
   <samp>
 I'm Suraj. A front-end Developer from Kerala, India. I design and develop websites, landing pages and applications. 
-     <br><br>Contact me on <a href="https://www.instagram.com/suraj_sly/">Instagram</a> 
+     <br><br>Contact me on <a style="font-family: Grenze Gotisch" href="https://www.instagram.com/suraj_sly/">Instagram</a> 
   </samp>
 </p>
