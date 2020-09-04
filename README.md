@@ -42,7 +42,7 @@
   <summary>:zap: Top Language</summary>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
