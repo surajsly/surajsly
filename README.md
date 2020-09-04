@@ -37,6 +37,16 @@
 <br />
 
 ---
+
+<details>
+  <summary>:zap: Top Language</summary>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsly)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+---
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -44,7 +54,5 @@
 
 </details>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsly)](https://github.com/anuraghazra/github-readme-stats)
 
 
