@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on some mini projects!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
@@ -39,7 +39,7 @@
 ---
 
 <details>
-  <summary>:zap: Top Language</summary>
+  <summary>:zap: Top Language Used</summary>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
