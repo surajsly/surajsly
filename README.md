@@ -2,7 +2,7 @@
 
 ## I'm Developer, Poet, Student, and Hustler!!!
 
-- 🔭 I’m currently working on some mini projects!!!
+- 🔭 I’m currently working on some side projects!!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators !!!
 - 🥅 2020 Goals: Contribute more to Open Source projects!!!
