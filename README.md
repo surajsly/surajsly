@@ -1,4 +1,4 @@
-### Hi there, I'm Suraj 👋
+### Hi there, I'm Suraj 👋![stat](https://komarev.com/ghpvc/?username=surajsly&style=flat-square)
 
 ## I'm Developer, Poet, Student, and Hustler!!
 
