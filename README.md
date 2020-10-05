@@ -1,4 +1,4 @@
-### Kon'nichiwa, I'm Suraj 👋
+### Kon'nichiwa ( こんにちは ), I'm Suraj 👋
 
 ## I'm Developer, Poet, Student, and Hustler!!
 
