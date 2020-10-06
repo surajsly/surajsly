@@ -1,4 +1,4 @@
-### Kon'nichiwa ( こんにちは ), I'm Suraj 👋
+### Kon'nichiwa ( こんにちは ), I'm Suraj Singh 👋
 
 ## I'm Developer, Poet, Student, and Hustler!!
 
