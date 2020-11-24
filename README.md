@@ -1,9 +1,9 @@
-### Kon'nichiwa (Hello) , I'm Suraj Singh 👋
+### Kon'nichiwa, I'm Suraj Singh 👋
 
 ## I'm Developer, Poet, Student, and Hustler!!
 
 - 🔭 I’m currently working on some side projects!!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning NodeJS 🤣
 - 👯 I’m looking to collaborate with other content creators !!
 - 🥅 2020 Goals: Contribute more to Open Source projects!!
 
@@ -35,21 +35,12 @@
 
 ---
 
-<details>
-  <summary>:zap: Top Language Used</summary>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
-
 ---
-<details>
-  <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=surajsly&show_icons=true&hide_border=true&theme=dracula" />
 
-</details>
 
 
 
