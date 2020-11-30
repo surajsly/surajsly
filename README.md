@@ -1,6 +1,14 @@
 ### Kon'nichiwa, I'm Suraj Singh 👋
 
 
+## I'm Developer, Poet, Student, and Hustler!!
+
+- 🔭 I’m currently working on some side projects!!
+- 🌱 I’m currently learning NodeJS 🤣
+- 👯 I’m looking to collaborate with other content creators !!
+- 🥅 2020 Goals: Contribute more to Open Source projects!!
+
+
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://surajsly.github.io/portfolio/home.html)
