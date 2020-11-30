@@ -1,17 +1,5 @@
 ### Kon'nichiwa, I'm Suraj Singh 👋
 
-### Languages
-
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-### Technologies
-
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![VS code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
-
 
 ### Connect with me:
 
