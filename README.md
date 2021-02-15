@@ -43,8 +43,7 @@
 
 <br />
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=surajsly&show_icons=true&hide_border=true&theme=dracula" />
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=surajsly&show_icons=true&hide_border=true&theme=dracula" />
 
 <br />
 
