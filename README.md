@@ -45,7 +45,8 @@
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=surajsly&show_icons=true&hide_border=true&theme=dracula" />
 
-<br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajsly&theme=dark)](https://github.com/surajsly)
 
 <br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajsly&theme=dark)](https://github.com/surajsly)
+
